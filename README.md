@@ -2,9 +2,6 @@
 This repository consists PyTorch code for the paper:
 Bao Wang, Binjie Yuan, Zuoqiang Shi, Stanley J. Osher. EnResNet: ResNet Ensemble via the Feynman-Kac Formalism, arXiv:1811.10745, 2018 (https://arxiv.org/abs/1811.10745)
 
-## Dependence
-PyTorch 0.4.1
-
 The repo contains two subfolders for PGD adversarially training of ensemble of ResNet20 and WideResNet34-10, respectively. 
 
 If you find this work useful and use it on you own research, please cite our [paper](https://arxiv.org/abs/1811.10745)
@@ -23,3 +20,7 @@ archivePrefix = {arXiv},
  primaryClass = {stat.ML}
 }
 '''
+
+
+## Dependence
+PyTorch 0.4.1
