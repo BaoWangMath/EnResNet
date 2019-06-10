@@ -10,6 +10,16 @@ We inteprete the adversarial vulnerability of ResNets as irregularity of the sol
     <img src="fig4.png" height="600">
 </p>
 
+The resulted convection-diffusion equation can be solved by using the Feynman-Kac formula, which can be approximated by an ensemble of modified ResNets.
+
+<p align="center">
+    <img src="fig1.png" height="600">
+</p>
+
+<p align="center">
+    <img src="fig2.png" height="600">
+</p>
+
 If you find this work useful and use it on you own research, please cite our [paper](https://arxiv.org/abs/1811.10745)
 
 ```
