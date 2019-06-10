@@ -4,6 +4,12 @@ Bao Wang, Binjie Yuan, Zuoqiang Shi, Stanley J. Osher. EnResNet: ResNet Ensemble
 
 The repo contains two subfolders for PGD adversarially training of ensemble of ResNet20 and WideResNet34-10, respectively. 
 
+We inteprete the adversarial vulnerability of ResNets as irregularity of the solution of the transport equation, and we propose to improve regularity of the decision boundary by adding diffusion to the transport equation. Please refer to Figure 4 of our [paper](https://arxiv.org/abs/1811.10745) for more details.
+
+<p align="center">
+    <img src="fig4.png" height="600">
+</p>
+
 If you find this work useful and use it on you own research, please cite our [paper](https://arxiv.org/abs/1811.10745)
 
 ```
