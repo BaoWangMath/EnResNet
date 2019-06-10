@@ -19,8 +19,7 @@ archivePrefix = {arXiv},
        eprint = {1811.10745},
  primaryClass = {stat.ML}
 }
-'''
-
+```
 
 ## Dependence
 PyTorch 0.4.1
